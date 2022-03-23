@@ -1,0 +1,14 @@
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\bin\Debug\netcoreapp3.1\SortArrayDigits.exe
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\bin\Debug\netcoreapp3.1\SortArrayDigits.deps.json
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\bin\Debug\netcoreapp3.1\SortArrayDigits.runtimeconfig.json
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\bin\Debug\netcoreapp3.1\SortArrayDigits.runtimeconfig.dev.json
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\bin\Debug\netcoreapp3.1\SortArrayDigits.dll
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\bin\Debug\netcoreapp3.1\SortArrayDigits.pdb
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\obj\Debug\netcoreapp3.1\SortArrayDigits.csproj.AssemblyReference.cache
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\obj\Debug\netcoreapp3.1\SortArrayDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\obj\Debug\netcoreapp3.1\SortArrayDigits.AssemblyInfoInputs.cache
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\obj\Debug\netcoreapp3.1\SortArrayDigits.AssemblyInfo.cs
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\obj\Debug\netcoreapp3.1\SortArrayDigits.csproj.CoreCompileInputs.cache
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\obj\Debug\netcoreapp3.1\SortArrayDigits.dll
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\obj\Debug\netcoreapp3.1\SortArrayDigits.pdb
+C:\Users\LPS Admin\source\repos\SortArrayDigits\SortArrayDigits\obj\Debug\netcoreapp3.1\SortArrayDigits.genruntimeconfig.cache

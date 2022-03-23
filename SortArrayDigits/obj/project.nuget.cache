@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RGw1eyF7ddI8wtOrWN0dT7rIlbsvRG+6togVX8DusISdSKzxmeakN+cDHT0SRgHPGRjWVWV3BiXEWIElh/ySvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LPS Admin\\source\\repos\\SortArrayDigits\\SortArrayDigits\\SortArrayDigits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LPS Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
